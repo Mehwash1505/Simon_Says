@@ -1,3 +1,5 @@
+// js file
+
 let gameSeq=[];
 let userSeq=[];
 
