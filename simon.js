@@ -2,6 +2,7 @@
 
 let gameSeq=[];
 let userSeq=[];
+let clickSeq=[];
 
 let btns = ["yellow", "red", "blue", "green"];
 
